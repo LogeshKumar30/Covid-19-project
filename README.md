@@ -39,16 +39,15 @@ Recovered (int)
 
 1. Clone & Enter Project
 
-```bash
-git clone
-https://github.com/LogeshKumar30/covid19-analysis.git
+
+git clone https://github.com/LogeshKumar30/covid19-analysis.git
 cd covid19-analysis
 
-```
+
 
 ### 2. Create Python Environment & Install Dependencies
 
-```bash
+
 python -m venv .venv  
 
 # Windows  
@@ -59,12 +58,12 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 
-```
+
 
 ### 3. Run the program
-```bash
+
 jupyter notebook "Covid 19 Data Analysis.ipynb"
-```
+
 
 **📦 requirements.txt (minimal)**
 
@@ -82,11 +81,10 @@ jupyter notebook "Covid 19 Data Analysis.ipynb"
 🤖 Created a foundation for predictive modeling in epidemiological studies
 
 🤝 Contributing
-```bash
+
 
 Pull requests are welcome. For major changes, please open an issue first.
 
-```
 
 ## 📬 Contact
 
