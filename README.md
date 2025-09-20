@@ -40,7 +40,8 @@ Recovered (int)
 1. Clone & Enter Project
 
 ```bash
-git clone https://github.com/LogeshKumar30/covid19-analysis.git
+git clone
+https://github.com/LogeshKumar30/covid19-analysis.git
 cd covid19-analysis
 
 ```
